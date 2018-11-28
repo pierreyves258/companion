@@ -211,3 +211,6 @@
 [submodule "lib/module/cockos-reaper"]
 	path = lib/module/cockos-reaper
 	url = https://github.com/bitfocus/companion-module-cockos-reaper.git
+[submodule "lib/module/obs-studio-mod"]
+	path = lib/module/obs-studio-mod
+	url = https://github.com/pierreyves258/companion-module-obs-studio.git
