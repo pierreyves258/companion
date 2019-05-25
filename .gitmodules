@@ -183,7 +183,7 @@
 	url = https://github.com/bitfocus/companion-module-analogway-pls300
 [submodule "lib/module/generic-http"]
 	path = lib/module/generic-http
-	url = https://github.com/bitfocus/companion-module-generic-http.git
+	url = https://github.com/pierreyves258/companion-module-generic-http.git
 [submodule "lib/module/barco-encore"]
 	path = lib/module/barco-encore
 	url = https://github.com/bitfocus/companion-module-barco-encore.git
@@ -211,6 +211,6 @@
 [submodule "lib/module/cockos-reaper"]
 	path = lib/module/cockos-reaper
 	url = https://github.com/bitfocus/companion-module-cockos-reaper.git
-[submodule "lib/module/obs-studio-mod"]
-	path = lib/module/obs-studio-mod
+[submodule "lib/module/obs-studio"]
+	path = lib/module/obs-studio
 	url = https://github.com/pierreyves258/companion-module-obs-studio.git
